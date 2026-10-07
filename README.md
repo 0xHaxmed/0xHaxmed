@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0A0F18,100:00BFFF&height=200&section=header&text=Mohamed%20Hesham&fontSize=46&fontColor=00E5FF&fontAlignY=38&desc=0xHaxmed%20%E2%80%A2%20Cybersecurity%20Student%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Offensive%20Security&descSize=15&descAlignY=60&descColor=38BDF8" alt="Mohamed Hesham - 0xHaxmed - Cybersecurity Student, Penetration Tester, Offensive Security" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05070D,50:0A0F18,100:00BFFF&height=230&section=header&text=Mohamed%20Hesham&fontSize=54&fontColor=00E5FF&fontAlignY=38&animation=fadeIn&desc=0xHaxmed%20%E2%80%A2%20Cybersecurity%20Student%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Offensive%20Security&descSize=15&descAlignY=60&descColor=38BDF8" alt="Mohamed Hesham - 0xHaxmed - Cybersecurity Student, Penetration Tester, Offensive Security" width="100%" />
 
-<a href="https://github.com/0xHaxmed">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=40&lines=Web+Application+Security;Offensive+Security;OWASP+Top+10;Penetration+Testing;CTF+Player;Security+Research;Linux+%26+Security+Automation" alt="Typing animation: Web Application Security, Offensive Security, OWASP Top 10, Penetration Testing, CTF Player, Security Research, Linux and Security Automation" />
+<a href="https://0xhaxmed.github.io/Mohamed_Heshame/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&height=45&lines=Web+Application+Security;Offensive+Security;OWASP+Top+10;Penetration+Testing;CTF+Player;Security+Research;Linux+%26+Security+Automation" alt="Typing animation: Web Application Security, Offensive Security, OWASP Top 10, Penetration Testing, CTF Player, Security Research, Linux and Security Automation" />
 </a>
 
-<p><sub><b>Web Application Security</b> &nbsp;|&nbsp; <b>OWASP Top 10</b> &nbsp;|&nbsp; <b>Recon &amp; Enumeration</b> &nbsp;|&nbsp; <b>CTFs</b></sub></p>
+<p>
+<a href="https://0xhaxmed.github.io/Mohamed_Heshame/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_LIVE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=05070D&labelColor=0D1117" alt="Portfolio website" /></a>
+<a href="https://tryhackme.com/p/MohamedHesham.22"><img src="https://img.shields.io/badge/TRYHACKME-MohamedHesham.22-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00E5FF&labelColor=0D1117&color=00BFFF" alt="TryHackMe profile" /></a>
+<a href="https://www.linkedin.com/in/mohamed-heshame-093232300/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=2563EB" alt="LinkedIn profile" /></a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## `>_` About Me
 
 <table>
 <tr>
@@ -22,7 +26,7 @@
 
 I approach security with an attacker's curiosity and a defender's discipline: map the attack surface, find the weakness, prove the impact, then document how to fix it.
 
-I learn by doing, through labs, CTFs, and hands-on web application testing, and I'm steadily strengthening my Linux, networking, and application-security fundamentals. I also write small tools to automate repetitive recon and testing tasks.
+I learn by doing, through labs, CTFs, and hands-on web application testing, while steadily strengthening my Linux, networking, and application-security fundamentals. I also write small tools to automate repetitive recon and testing tasks.
 
 </td>
 <td width="40%" valign="top">
@@ -41,7 +45,7 @@ I learn by doing, through labs, CTFs, and hands-on web application testing, and 
 
 ---
 
-## Terminal
+## `>_` Terminal
 
 ```bash
 $ whoami
@@ -66,14 +70,14 @@ Authorized targets only. Labs, CTFs, and permitted environments.
 
 ---
 
-## Skills & Tools
+## `>_` Skills & Tools
 
 <table>
 <tr>
 <td width="30%" valign="top"><b>Offensive Security</b></td>
 <td width="70%" valign="top">
 <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00E5FF" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=00E5FF&color=0D1117&labelColor=0D1117" alt="Nmap" />
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&labelColor=0D1117&color=00BFFF" alt="Nmap" />
 <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00E5FF" alt="Metasploit" />
 <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00E5FF" alt="Wireshark" />
 </td>
@@ -85,7 +89,7 @@ Authorized targets only. Labs, CTFs, and permitted environments.
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Programming & Automation</b></td>
+<td valign="top"><b>Programming &amp; Automation</b></td>
 <td valign="top">
 <img src="https://skillicons.dev/icons?i=py,bash&theme=dark" alt="Python, Bash" />
 </td>
@@ -94,6 +98,7 @@ Authorized targets only. Labs, CTFs, and permitted environments.
 <td valign="top"><b>Web Security Foundations</b></td>
 <td valign="top">
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" />
+<br />
 <img src="https://img.shields.io/badge/HTTP-0D1117?style=flat-square&labelColor=0D1117&color=2563EB" alt="HTTP" />
 <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&labelColor=0D1117&color=2563EB" alt="SQL" />
 <img src="https://img.shields.io/badge/OWASP_Top_10-0D1117?style=flat-square&labelColor=0D1117&color=00E5FF" alt="OWASP Top 10" />
@@ -103,7 +108,7 @@ Authorized targets only. Labs, CTFs, and permitted environments.
 
 ---
 
-## Practice Platforms
+## `>_` Practice Platforms
 
 <table>
 <tr>
@@ -140,7 +145,7 @@ Practical web vulnerability labs covering:
 
 ---
 
-## CTFs & Hands-On Security
+## `>_` CTFs & Hands-On Security
 
 Capture The Flag challenges and security labs are where I turn theory into practice:
 
@@ -151,7 +156,7 @@ Capture The Flag challenges and security labs are where I turn theory into pract
 
 ---
 
-## Learning Workflow
+## `>_` Learning Workflow
 
 ```text
 Recon -> Enumeration -> Research -> Exploitation -> Validation -> Privilege Escalation -> Reporting -> Remediation
@@ -161,14 +166,26 @@ Every finding is only as useful as the report that explains it, so I practice do
 
 ---
 
-## Connect With Me
+## `>_` Portfolio
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=2563EB" alt="LinkedIn" /></a>
+<a href="https://0xhaxmed.github.io/Mohamed_Heshame/">
+  <img src="https://img.shields.io/badge/0xhaxmed.github.io-Visit_My_Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=05070D&labelColor=0D1117" alt="Visit Mohamed Hesham's portfolio website" />
+</a>
+
+</div>
+
+---
+
+## `>_` Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-heshame-093232300/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed_Hesham-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=2563EB" alt="LinkedIn: Mohamed Hesham" /></a>
 <a href="https://github.com/0xHaxmed"><img src="https://img.shields.io/badge/GitHub-0xHaxmed-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=2563EB" alt="GitHub: 0xHaxmed" /></a>
 <a href="https://tryhackme.com/p/MohamedHesham.22"><img src="https://img.shields.io/badge/TryHackMe-MohamedHesham.22-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00E5FF&labelColor=0D1117&color=2563EB" alt="TryHackMe: MohamedHesham.22" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117&color=2563EB" alt="Email" /></a>
+<a href="mailto:mohamedhesham1033@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedhesham1033@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117&color=2563EB" alt="Email: mohamedhesham1033@gmail.com" /></a>
 
 </div>
 
@@ -178,6 +195,6 @@ Every finding is only as useful as the report that explains it, so I practice do
 
 <sub><code>Built with curiosity. Tested with persistence.</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0A0F18,100:05070D&height=80&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0A0F18,100:05070D&height=90&section=footer" alt="" width="100%" />
 
 </div>
