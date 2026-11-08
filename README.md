@@ -229,16 +229,6 @@ Structured repositories reflecting hands-on investigations, testing workflows, a
 
 ---
 
-## 🦇 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0xHaxmed&show_icons=true&bg_color=090909&title_color=C51F35&text_color=B8B8B8&icon_color=8B0000&border_color=151515" width="48%" alt="HAXMED GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xHaxmed&layout=compact&bg_color=090909&title_color=C51F35&text_color=B8B8B8&border_color=151515" width="48%" alt="HAXMED Top Languages" />
-
-</div>
-
----
 
 ## 🩸 Connect With HAXMED
 
