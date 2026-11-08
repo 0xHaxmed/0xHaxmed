@@ -9,10 +9,10 @@
 </a>
 
 <p align="center">
-  <a href="https://0xhaxmed.github.io/Mohamed_Heshame/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_LIVE-8B0000?style=for-the-badge&logo=googlechrome&logoColor=B8B8B8&labelColor=090909" alt="Portfolio" /></a>
-  <a href="https://tryhackme.com/p/MohamedHesham.22"><img src="https://img.shields.io/badge/TRYHACKME-MohamedHesham.22-8B0000?style=for-the-badge&logo=tryhackme&logoColor=C51F35&labelColor=090909" alt="TryHackMe" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-heshame-093232300/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8B0000?style=for-the-badge&logo=linkedin&logoColor=B8B8B8&labelColor=090909" alt="LinkedIn" /></a>
-  <a href="mailto:mohamedhesham1033@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-8B0000?style=for-the-badge&logo=gmail&logoColor=C51F35&labelColor=090909" alt="Email" /></a>
+  <a href="https://0xhaxmed.github.io/Mohamed_Heshame/"><img src="https://img.shields.io/badge/PORTFOLIO-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090909" alt="Portfolio" /></a>
+  <a href="https://tryhackme.com/p/MohamedHesham.22"><img src="https://img.shields.io/badge/TRYHACKME-8B0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=090909" alt="TryHackMe" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-heshame-093232300/"><img src="https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090909" alt="LinkedIn" /></a>
+  <a href="mailto:mohamedhesham1033@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090909" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -97,36 +97,33 @@ Every test conducted, lab solved, and tool engineered serves a single doctrine: 
 <tr>
   <td width="28%"><b>Offensive Security &amp; Testing</b></td>
   <td>
-    <img src="https://img.shields.io/badge/Burp_Suite-151515?style=for-the-badge&logo=burpsuite&logoColor=C51F35&labelColor=090909&color=8B0000" alt="Burp Suite" />
-    <img src="https://img.shields.io/badge/Nmap-151515?style=for-the-badge&logo=nmap&logoColor=B8B8B8&labelColor=090909&color=8B0000" alt="Nmap" />
-    <img src="https://img.shields.io/badge/Metasploit-151515?style=for-the-badge&logo=metasploit&logoColor=C51F35&labelColor=090909&color=8B0000" alt="Metasploit" />
-    <img src="https://img.shields.io/badge/Wireshark-151515?style=for-the-badge&logo=wireshark&logoColor=B8B8B8&labelColor=090909&color=8B0000" alt="Wireshark" />
+    <img src="https://img.shields.io/badge/Burp_Suite-8B0000?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=090909" alt="Burp Suite" />
+    <img src="https://img.shields.io/badge/Nmap-8B0000?style=for-the-badge&labelColor=090909" alt="Nmap" />
+    <img src="https://img.shields.io/badge/Metasploit-8B0000?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=090909" alt="Metasploit" />
+    <img src="https://img.shields.io/badge/Wireshark-8B0000?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=090909" alt="Wireshark" />
   </td>
 </tr>
 <tr>
   <td><b>Operating Environments</b></td>
   <td>
-    <img src="https://img.shields.io/badge/Kali_Linux-151515?style=for-the-badge&logo=kalilinux&logoColor=C51F35&labelColor=090909&color=8B0000" alt="Kali Linux" />
-    <img src="https://img.shields.io/badge/Linux_Shell-151515?style=for-the-badge&logo=linux&logoColor=B8B8B8&labelColor=090909&color=8B0000" alt="Linux" />
-    <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=C51F35&labelColor=090909&color=8B0000" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=B8B8B8&labelColor=090909&color=8B0000" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,git,github&theme=dark" alt="Kali Linux, Linux, Git, GitHub" />
   </td>
 </tr>
 <tr>
   <td><b>Scripting &amp; Automation</b></td>
   <td>
-    <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=B8B8B8&labelColor=090909&color=8B0000" alt="Python" />
-    <img src="https://img.shields.io/badge/GNU_Bash-151515?style=for-the-badge&logo=gnubash&logoColor=C51F35&labelColor=090909&color=8B0000" alt="Bash" />
-    <img src="https://img.shields.io/badge/Custom_PoC_Tooling-151515?style=for-the-badge&logoColor=C51F35&labelColor=090909&color=8B0000" alt="Custom PoC Tooling" />
+    <img src="https://skillicons.dev/icons?i=py,bash&theme=dark" alt="Python, Bash" />
+    <img src="https://img.shields.io/badge/Custom_PoCs-8B0000?style=for-the-badge&labelColor=090909" alt="Custom Tooling" />
   </td>
 </tr>
 <tr>
   <td><b>Web Protocols &amp; Standards</b></td>
   <td>
-    <img src="https://img.shields.io/badge/OWASP_Top_10-151515?style=for-the-badge&logo=owasp&logoColor=C51F35&labelColor=090909&color=8B0000" alt="OWASP Top 10" />
-    <img src="https://img.shields.io/badge/HTTP_Internals-151515?style=for-the-badge&logoColor=B8B8B8&labelColor=090909&color=8B0000" alt="HTTP" />
-    <img src="https://img.shields.io/badge/SQL_Security-151515?style=for-the-badge&logo=postgresql&logoColor=C51F35&labelColor=090909&color=8B0000" alt="SQL" />
-    <img src="https://img.shields.io/badge/HTML5_%2F_CSS3_%2F_JS-151515?style=for-the-badge&logo=javascript&logoColor=B8B8B8&labelColor=090909&color=8B0000" alt="HTML/CSS/JS" />
+    <img src="https://img.shields.io/badge/OWASP_Top_10-8B0000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=090909" alt="OWASP Top 10" />
+    <img src="https://img.shields.io/badge/HTTP-8B0000?style=for-the-badge&labelColor=090909" alt="HTTP" />
+    <img src="https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&labelColor=090909" alt="SQL" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML5, CSS3, JavaScript" />
   </td>
 </tr>
 </table>
@@ -151,7 +148,7 @@ Practical hands-on lab environments for building and stress-testing offensive se
 <br />
 
 <a href="https://tryhackme.com/p/MohamedHesham.22">
-  <img src="https://img.shields.io/badge/TRYHACKME_PROFILE-MohamedHesham.22-8B0000?style=for-the-badge&logo=tryhackme&logoColor=C51F35&labelColor=090909" alt="TryHackMe Profile" />
+  <img src="https://img.shields.io/badge/TryHackMe-MohamedHesham.22-8B0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=090909" alt="TryHackMe Profile" />
 </a>
 
 </td>
@@ -169,7 +166,7 @@ Rigorous practice on dedicated web vulnerability labs with direct focus on moder
 <br />
 
 <a href="https://portswigger.net/web-security">
-  <img src="https://img.shields.io/badge/PORTSWIGGER-WEB_SECURITY_ACADEMY-8B0000?style=for-the-badge&logo=portswigger&logoColor=B8B8B8&labelColor=090909" alt="PortSwigger Academy" />
+  <img src="https://img.shields.io/badge/PortSwigger-Web_Security_Academy-8B0000?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=090909" alt="PortSwigger Academy" />
 </a>
 
 </td>
@@ -247,11 +244,11 @@ Structured repositories reflecting hands-on investigations, testing workflows, a
 
 <div align="center">
 
-<a href="https://0xhaxmed.github.io/Mohamed_Heshame/"><img src="https://img.shields.io/badge/PORTFOLIO-090909?style=for-the-badge&logo=googlechrome&logoColor=C51F35&labelColor=151515&color=8B0000" alt="Portfolio" /></a>
-<a href="https://github.com/0xHaxmed"><img src="https://img.shields.io/badge/GITHUB-090909?style=for-the-badge&logo=github&logoColor=B8B8B8&labelColor=151515&color=8B0000" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/mohamed-heshame-093232300/"><img src="https://img.shields.io/badge/LINKEDIN-090909?style=for-the-badge&logo=linkedin&logoColor=C51F35&labelColor=151515&color=8B0000" alt="LinkedIn" /></a>
-<a href="https://tryhackme.com/p/MohamedHesham.22"><img src="https://img.shields.io/badge/TRYHACKME-090909?style=for-the-badge&logo=tryhackme&logoColor=B8B8B8&labelColor=151515&color=8B0000" alt="TryHackMe" /></a>
-<a href="mailto:mohamedhesham1033@gmail.com"><img src="https://img.shields.io/badge/EMAIL-090909?style=for-the-badge&logo=gmail&logoColor=C51F35&labelColor=151515&color=8B0000" alt="Email" /></a>
+<a href="https://0xhaxmed.github.io/Mohamed_Heshame/"><img src="https://img.shields.io/badge/PORTFOLIO-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090909" alt="Portfolio" /></a>
+<a href="https://github.com/0xHaxmed"><img src="https://img.shields.io/badge/GITHUB-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=090909" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/mohamed-heshame-093232300/"><img src="https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090909" alt="LinkedIn" /></a>
+<a href="https://tryhackme.com/p/MohamedHesham.22"><img src="https://img.shields.io/badge/TRYHACKME-8B0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=090909" alt="TryHackMe" /></a>
+<a href="mailto:mohamedhesham1033@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090909" alt="Email" /></a>
 
 <br /><br />
 
